@@ -16,6 +16,6 @@ public class Socio {
     }
 
     public String toString() {
-        return "ID Socio: " + idSocio + " | Nombre: " + nombre;
+        return "ID Socio: " + idSocio + "Nombre: " + nombre;
     }
 }

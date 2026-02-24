@@ -15,6 +15,6 @@ public class Sala {
     }
 
     public String toString() {
-        return "Sala #" + idSala + " - " + descripcion;
+        return "Sala #" + idSala + descripcion;
     }
 }
